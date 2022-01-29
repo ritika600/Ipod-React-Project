@@ -9,7 +9,7 @@ class Artists extends React.Component{
 
                  <div style={styles.titleBar}>
                         <p style={{fontWeight:'bold'}}>iPod</p>
-                        <img style={styles.battery} src="https://image.flaticon.com/icons/svg/3103/3103446.svg"></img>
+                        <img style={styles.battery} src="https://cdn-icons.flaticon.com/png/512/664/premium/664882.png?token=exp=1643441313~hmac=5ec8eb812295cb147758f0fd725fdfa1"></img>
                     </div>
 
                 <div style={styles.info}>
@@ -17,7 +17,7 @@ class Artists extends React.Component{
                     </div>
                     
                     <div style={styles.subInfo}>
-                        <h4 style={{marginBottom:'0.5rem'}}>IPod.js <span><img style={styles.image} src="https://image.flaticon.com/icons/svg/953/953909.svg" /></span></h4>
+                        <h4 style={{marginBottom:'0.5rem'}}>IPod.js <span><img style={styles.image} src="https://cdn-icons.flaticon.com/png/512/55/premium/55307.png?token=exp=1643441674~hmac=8ebd4b23a0ce1de5d743431ced84cc29" /></span></h4>
                         <p style={{marginBottom:'0'}}> React Project</p>
                         <p>Made by : Ritika</p>
                     </div>

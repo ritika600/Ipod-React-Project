@@ -10,7 +10,7 @@ class Home extends React.Component{
                 <div style={styles.menuList} id='menu-list'>
                     <div style={styles.titleBar}>
                         <p style={{fontWeight:'bold'}}>iPod</p>
-                        <img style={styles.battery} src="https://image.flaticon.com/icons/svg/3103/3103446.svg"></img>
+                        <img style={styles.battery} src="https://cdn-icons.flaticon.com/png/512/664/premium/664882.png?token=exp=1643441313~hmac=5ec8eb812295cb147758f0fd725fdfa1"></img>
                     </div>
                     <ListGroup style={{borderRadius:'0'}}>
                         <ListGroup.Item style={{border:'0',padding: '0.2rem 0.6rem'}} className={this.props.activeItem==='NowPlaying'?'active':''}>
