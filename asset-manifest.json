@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Ipod-React-Project/static/css/main.69eda509.chunk.css",
-    "main.js": "/Ipod-React-Project/static/js/main.354f9200.chunk.js",
-    "main.js.map": "/Ipod-React-Project/static/js/main.354f9200.chunk.js.map",
+    "main.js": "/Ipod-React-Project/static/js/main.97380105.chunk.js",
+    "main.js.map": "/Ipod-React-Project/static/js/main.97380105.chunk.js.map",
     "runtime-main.js": "/Ipod-React-Project/static/js/runtime-main.815214b6.js",
     "runtime-main.js.map": "/Ipod-React-Project/static/js/runtime-main.815214b6.js.map",
     "static/css/2.af3c1da9.chunk.css": "/Ipod-React-Project/static/css/2.af3c1da9.chunk.css",
     "static/js/2.ece0a88d.chunk.js": "/Ipod-React-Project/static/js/2.ece0a88d.chunk.js",
     "static/js/2.ece0a88d.chunk.js.map": "/Ipod-React-Project/static/js/2.ece0a88d.chunk.js.map",
     "index.html": "/Ipod-React-Project/index.html",
-    "precache-manifest.96ea0aa5445f23038ce68b837e61122c.js": "/Ipod-React-Project/precache-manifest.96ea0aa5445f23038ce68b837e61122c.js",
+    "precache-manifest.371265751fb5fb5b004d720574f37df0.js": "/Ipod-React-Project/precache-manifest.371265751fb5fb5b004d720574f37df0.js",
     "service-worker.js": "/Ipod-React-Project/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/Ipod-React-Project/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.69eda509.chunk.css.map": "/Ipod-React-Project/static/css/main.69eda509.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.ece0a88d.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.354f9200.chunk.js"
+    "static/js/main.97380105.chunk.js"
   ]
 }
